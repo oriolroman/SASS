@@ -1,0 +1,22 @@
+body {
+  background-color: salmon;
+}
+
+h1 {
+  color: salmon;
+  padding: 15px;
+  background-color: white;
+  width: 400px;
+}
+
+p {
+  width: 500px;
+}
+
+h2 {
+  color: salmon;
+  padding: 15px;
+  background-color: gray;
+  width: 400px;
+}
+/*# sourceMappingURL=styles.css.map */

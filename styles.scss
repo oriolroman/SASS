@@ -1,0 +1,24 @@
+$colorDelFons: salmon;
+$widthH1:400px;
+$width2:$widthH1 + 100px;
+$colorH2:gray;
+body{
+    background-color: $colorDelFons;
+    ;
+}
+h1{
+    color: $colorDelFons;
+    padding: 15px;
+    background-color: white;
+    width: $widthH1;
+}
+p{
+    width: $width2;
+}
+
+h2{
+    color: $colorDelFons;
+    padding: 15px;
+    background-color: $colorH2;
+    width: $widthH1;
+}
